@@ -79,3 +79,27 @@ a:nth-of-type(12) {
 }
 
 /* Jouw animaties */
+.klikt{
+  background-color: rgb(255, 0, 0);
+}
+
+.effect {
+  background-color: #9d7beb;
+  font-style: italic;
+}
+
+.kleur{
+background-color: beige;
+animation: alternate;
+}
+
+.kleuren {
+background-color: black;
+color: aliceblue;
+}
+
+.fixen {
+  background-color: #000dff;
+  border-radius: 50%;
+  border-style: dashed;
+}
