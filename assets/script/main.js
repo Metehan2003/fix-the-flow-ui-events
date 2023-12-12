@@ -58,3 +58,13 @@ let flow = document.querySelector(".flow")
 flow.addEventListener("mouseup", function () {
   flow.classList.toggle("flows")
 })
+
+let user = document.querySelector(".user")
+user.addEventListener("auxclick", function () {
+  user.classList.toggle("users")
+})
+
+let interface = document.querySelector(".interface")
+interface.addEventListener("mousemove", function () {
+  interface.classList.toggle("interfaces")
+})

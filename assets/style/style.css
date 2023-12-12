@@ -111,3 +111,12 @@ background-color: aqua;
 .flows{
   background-color: brown;
 }
+
+.users {
+  background-color: bisque;
+  opacity: 3;
+}
+
+.interfaces {
+background-color: gold;  
+}
