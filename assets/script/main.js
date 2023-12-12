@@ -47,3 +47,14 @@ let fix = document.querySelector(".fix")
 fix.addEventListener("wheel", function () {
   fix.classList.toggle("fixen")
 })
+
+let the = document.querySelector(".the")
+the.addEventListener("keyup", function () {
+  the.classList.toggle("test")
+
+})
+
+let flow = document.querySelector(".flow")
+flow.addEventListener("mouseup", function () {
+  flow.classList.toggle("flows")
+})
