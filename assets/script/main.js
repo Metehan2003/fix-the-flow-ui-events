@@ -29,6 +29,7 @@ en.addEventListener("keydown", function () {
   en.classList.toggle("kleur")
 })
 
+//vierde knop etc
 let dev = document.querySelector(".dev")
 dev.addEventListener("keydown", function (event) {
   // Als ik m indrukte, toggle dan de kleur
